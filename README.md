@@ -1,6 +1,14 @@
 # HyperMarkets-Prediction
 Prediction and Analysis of products across different stores and locations.
 
+## Table of Contents
+
+1. Introduction
+2. Overview of Data
+3. Data Pre-Processing
+4. Exploratory Data Analysis
+5. Modeling
+
 ## Introduction
 Hypermarkets are basically chains of supermarkets where their stores are set up at various centers across many cities, with n number of products and huge costs which goes into the setup. The data scientists at BigMart have collected 2013 sales data for 1559 products across 10 stores in different cities. Using this model, BigMart will try to understand the properties of products and stores which play a key role in increasing sales.
 
