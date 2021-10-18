@@ -1,4 +1,4 @@
-# HyperMarkets-Prediction
+# HyperMarket
 Prediction and Analysis of products across different stores and locations.
 
 ## Table of Contents
